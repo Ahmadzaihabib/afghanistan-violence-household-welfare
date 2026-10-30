@@ -41,17 +41,17 @@ Households that experienced violence have about 7% lower income and about 2% low
 
 Average income is lower in households that experienced violence (about 129,600 AFN versus 140,900 AFN), and so is average spending:
 
-![Income and expenditure by violence](figures/income_expenditure_by_violence.png)
+![Income and expenditure by violence](income_expenditure_by_violence.png)
 
 Welfare varies a lot by region, and so does violence. Violence is highest in the South Western region and lowest in the West Central, Northern and Southern regions:
 
-![Welfare by region](figures/welfare_by_region.png)
+![Welfare by region](welfare_by_region.png)
 
-![Violence by region](figures/violence_by_region.png)
+![Violence by region](violence_by_region.png)
 
 Violence is also much lower in urban areas than in rural areas and among the Kuchi (nomadic) population:
 
-![Violence by residence](figures/violence_by_residence.png)
+![Violence by residence](violence_by_residence.png)
 
 District-level opium cultivation is not statistically significant in either model.
 
@@ -75,7 +75,7 @@ It produces the summary tables, the regression tables and the charts. Running it
 |---|---|
 | `afghanistan_violence_household_welfare_thesis.pdf` | The full thesis |
 | `analysis.do` | Stata code for the tables, regressions and charts |
-| `figures/` | Charts used in this README |
+| `*.png` | Charts used in this README |
 
 ---
 
